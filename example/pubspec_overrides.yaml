@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: super_application_module
+dependency_overrides:
+  super_application_module:
+    path: ..
